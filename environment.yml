@@ -1,0 +1,43 @@
+name: dct2
+channels:
+  - defaults
+dependencies:
+  - blas=1.0=openblas
+  - ca-certificates=2024.3.11=hca03da5_0
+  - freetype=2.12.1=h1192e45_0
+  - giflib=5.2.1=h80987f9_3
+  - joblib=1.2.0=py39hca03da5_0
+  - jpeg=9e=h80987f9_1
+  - lcms2=2.12=hba8e193_0
+  - lerc=3.0=hc377ac9_0
+  - libcxx=14.0.6=h848a8c0_0
+  - libdeflate=1.17=h80987f9_1
+  - libffi=3.4.4=hca03da5_0
+  - libgfortran=5.0.0=11_3_0_hca03da5_28
+  - libgfortran5=11.3.0=h009349e_28
+  - libopenblas=0.3.21=h269037a_0
+  - libpng=1.6.39=h80987f9_0
+  - libtiff=4.5.1=h313beb8_0
+  - libwebp=1.2.4=ha3663a8_1
+  - libwebp-base=1.2.4=h80987f9_1
+  - llvm-openmp=14.0.6=hc6e5704_0
+  - lz4-c=1.9.4=h313beb8_0
+  - ncurses=6.4=h313beb8_0
+  - numpy=1.26.4=py39h3b2db8e_0
+  - numpy-base=1.26.4=py39ha9811e2_0
+  - openssl=3.0.13=h1a28f6b_0
+  - pillow=9.2.0=py39h4d1bdd5_1
+  - pip=23.3.1=py39hca03da5_0
+  - python=3.9.19=hb885b13_0
+  - readline=8.2=h1a28f6b_0
+  - scikit-learn=0.24.2=py39h9197a36_1
+  - scipy=1.12.0=py39h20cbe94_0
+  - setuptools=68.2.2=py39hca03da5_0
+  - sqlite=3.41.2=h80987f9_0
+  - threadpoolctl=2.2.0=pyh0d69192_0
+  - tk=8.6.12=hb8d0fd4_0
+  - tzdata=2024a=h04d1e81_0
+  - wheel=0.41.2=py39hca03da5_0
+  - xz=5.4.6=h80987f9_0
+  - zlib=1.2.13=h5a0b063_0
+  - zstd=1.5.5=hd90d995_0
